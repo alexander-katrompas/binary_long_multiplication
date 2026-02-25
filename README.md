@@ -6,8 +6,8 @@ This repo contains a small Python program (`main.py`) that **demonstrates binary
 
 ## What the program does
 
-- Implements **binary addition** on bitstrings (`binary_add`)
-- Implements **binary long multiplication** as repeated **shift + add** (`binary_multiply`)
+- Implements **binary addition** simulation on bitstrings (`binary_add`)
+- Implements **binary long multiplication** simulation as repeated **shift + add** (`binary_multiply`)
 - Constrains intermediate results to **8 bits** by truncating to the last 8 bits
   - This intentionally demonstrates **overflow / wraparound** behavior (mod \(2^8\))
 
