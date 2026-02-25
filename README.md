@@ -1,6 +1,6 @@
 # Binary Long Multiplication Demo (String-Based, 8-bit Truncation)
 
-This repo contains a small Python program (`main.py`) that **demonstrates binary long multiplication** using **strings of `'0'`/`'1'`** rather than Python integers.
+This repo contains a small Python program (`main.py`) that **demonstrates binary long multiplication SIMULATION** using **strings of `'0'`/`'1'`** rather than Python integers.
 
 ---
 
