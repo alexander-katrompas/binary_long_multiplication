@@ -20,6 +20,7 @@ At the end, it runs two examples:
 ## Files
 
 - `main.py` — implementation and demo runs
+- `Binary_Long_Multiplication.pdf` — explanation of binary long multiplication
 
 ---
 
